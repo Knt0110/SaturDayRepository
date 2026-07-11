@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Animation.vcxproj" Id="37b37fce-f067-41dc-9fca-46adf448cf16" />
+</Solution>
